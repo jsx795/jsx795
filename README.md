@@ -2,20 +2,20 @@
 I’m currently pursuing a BCA (Honours) degree with a strong passion for technology, coding, and innovation. I’m always eager to learn new skills, explore emerging technologies, and connect with people to gain new perspectives and experiences.
 ## 💫 About Me <br>
 
-🔭 Currently Working On:
-Machine Learning and Artificial Intelligence <br>
+🔭 Currently Working On: <br>
+     Machine Learning and Artificial Intelligence <br>
 
-👯 Looking to Collaborate On:
-Full-Stack Development Projects <br>
+👯 Looking to Collaborate On: <br>
+     Full-Stack Development Projects <br>
 
-🌱 Currently Learning:
-Core Concepts of ML/AI and Advanced Web Technologies <br>
+🌱 Currently Learning: <br>
+     Core Concepts of ML/AI and Advanced Web Technologies <br>
 
-💬 Ask Me About:
-JavaScript, React, Next.js, Node.js, AWS, and anything related to ML/AI <br>
+💬 Ask Me About: <br>
+     JavaScript, React, Next.js, Node.js, AWS, and anything related to ML/AI <br>
 
-⚡ Fun Fact:
-I love solving complex problems and turning creative ideas into real-world solutions. <br>
+⚡ Fun Fact: <br>
+     I love solving complex problems and turning creative ideas into real-world solutions. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teerpsaj7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/teerpsaj7) 
