@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jass <br>
-### I’m currently pursuing a BCA (Honours) degree with a strong passion for technology, coding, and innovation. I’m always eager to learn new skills, explore emerging technologies, and connect with people to gain new perspectives and experiences.
+I’m currently pursuing a BCA (Honours) degree with a strong passion for technology, coding, and innovation. I’m always eager to learn new skills, explore emerging technologies, and connect with people to gain new perspectives and experiences.
 ## 💫 About Me <br>
 
 🔭 Currently Working On:
